@@ -1,21 +1,5 @@
 {
-  "moreApps": [
-    {
-      "appName": "Video Downloader",
-      "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
-      "appImageLink": "https://play-lh.googleusercontent.com/DahU2itmCu2DR2AVJ0BBDw9VbduIjKt4Bs9xyNjYoO0AOcKrCAS9KZ1GTkZ09qaY6KmL=w416-h235-rw"
-    },
-    {
-      "appName": "Bubble Shooter Genies",
-      "appLink": "https://play.google.com/store/apps/details?id=com.linkdesks.bubblegames.bubbleshooter",
-      "appImageLink": "https://play-lh.googleusercontent.com/dnX1ItGE79ySrI2xTOzi0YnqXvpdqfU9IN0HI0stAjiauJstFN5LfXRLXTNawynnOoc=w526-h296-rw"
-    },
-    {
-      "appName": "Live Football Streaming",
-      "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffersports.live",
-      "appImageLink": "https://play-lh.googleusercontent.com/jReaBJEXkdmesxbROmGu2HoURyJMBZvdIBBGg7z4h27wT_TyBfgJtpYtlxLRbO5ydy8B=w416-h235-rw"
-    }
-  ],
+  "moreApps": [],
   "package": "com.mindbuffer.videodownloader",
   "new_link": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
   "appLink": "Let's watch cricket on Live Cricket HD TV! It's a fast, and simple app we can use to watch live cricket for free. Get it at https://mindbuffersports.page.link/cricket"
