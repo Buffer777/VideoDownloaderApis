@@ -1,17 +1,5 @@
 {
-  "moreApps": [
-  {
-     "appImageLink": "https://play-lh.googleusercontent.com/0KBI9E1K5j00NUOgqkhRWl89340-KRsON4twrtVZH-oPxrkCqLqsvDoRPm20tS6IyTk=w416-h235-rw",
-     "appLink": "https://play.google.com/store/apps/details?id=com.shaiz.tensports.worldcupcricket",
-     "appName": "Live Cricket TV Matches 2023"
-    },
-    {
-     "appImageLink": "https://play-lh.googleusercontent.com/zjRzJcL7kOV3AY2CT-PHiV8eOjIp83jw13MH2hpI2f8BLzSh08-fAQlLOTgF74V2Djs=w416-h235-rw",
-     "appLink": "https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment",
-     "appName": "Home Workout - No Equipment"
-    }
-  
-  ],
+  "moreApps": [],
   "package": "com.boom.videodownloader",
   "new_link": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
   "appLink": "World's Fastest Video Downloader. Get it at https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader"
